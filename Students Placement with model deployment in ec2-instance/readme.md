@@ -1,6 +1,6 @@
 ## Students_Placement model deployment in EC2 Instance 
 
-!![ladder_1fa9c](https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png)### Steps ML Model Deployment
+![ladder_1fa9c](https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png)### Steps ML Model Deployment
 
 
 - Build the model
