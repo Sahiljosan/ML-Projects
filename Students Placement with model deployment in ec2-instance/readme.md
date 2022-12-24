@@ -2,7 +2,7 @@
 
 ![ladder_1fa9c](https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png)### Steps ML Model Deployment
 
-<img src="https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png" alt="https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png" alt="https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png" width="10"/>
 - Build the model
 - Export the model using pickle/joblib
 - Build a Flask website to serve the model
