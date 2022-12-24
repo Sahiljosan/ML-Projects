@@ -3,6 +3,8 @@
 
 ### <img src="https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png" alt="drawing" width="20"/> Steps ML Model Deployment
 
+img[alt=[drawing](https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png)] { width: 200px; }
+
 - Build the model
 - Export the model using pickle/joblib
 - Build a Flask website to serve the model
