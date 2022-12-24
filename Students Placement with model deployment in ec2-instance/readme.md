@@ -3,7 +3,6 @@
 
 ### <img src="https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png" alt="drawing" width="20"/> Steps ML Model Deployment
 
-img[alt=[drawing](https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png)] { width: 200px; }
 
 - Build the model
 - Export the model using pickle/joblib
@@ -21,7 +20,7 @@ WinSCP: To upload project files to server
 
 Reference Video-[campusX](https://youtu.be/_rwNTY5Mn40)
 
-### Command to be written in putty
+### :desktop_computer: Command to be written in putty
 
 ```
 sudo apt install python3
