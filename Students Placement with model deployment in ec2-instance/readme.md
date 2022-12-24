@@ -1,8 +1,9 @@
 ## Students_Placement model deployment in EC2 Instance 
 
-![ladder_1fa9c](https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png)### Steps ML Model Deployment
+![ladder_1fa9c](https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png)
 
-<img src="https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png" alt="https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png" width="10"/>
+<img src="https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png" alt="https://user-images.githubusercontent.com/106590141/209423660-f87be18d-f5d3-43e0-8005-8f661c0e23cb.png" width="50"/>### Steps ML Model Deployment
+
 - Build the model
 - Export the model using pickle/joblib
 - Build a Flask website to serve the model
