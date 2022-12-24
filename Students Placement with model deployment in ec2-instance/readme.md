@@ -19,7 +19,8 @@
 
 WinSCP: To upload project files to server
 
-Reference Video-[campusX](https://youtu.be/_rwNTY5Mn40)
+Reference Video-[campusX](https://youtu.be/_rwNTY5Mn40)<br>
+[DATASET](https://github.com/Sahiljosan/ML-Projects/blob/main/Students%20Placement%20with%20model%20deployment%20in%20ec2-instance/students_placement.csv)
 
 ### :desktop_computer: Command to be written in putty
 
