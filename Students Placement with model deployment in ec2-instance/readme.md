@@ -1,6 +1,7 @@
 ## Students_Placement model deployment in EC2 Instance 
 
-### Steps ML Model Deployment
+### Steps ML Model Deployment![footprints-docomo](https://user-images.githubusercontent.com/106590141/209423488-9901d030-3fb4-4968-9067-9c76cecf73db.png)
+
 - Build the model
 - Export the model using pickle/joblib
 - Build a Flask website to serve the model
