@@ -1,5 +1,15 @@
 # Car Price Predictor :car:
-https://user-images.githubusercontent.com/106590141/209450767-5975b09e-9bd8-40e9-9e49-0fd47f30500f.mp4<br>
+
+
+https://user-images.githubusercontent.com/106590141/209450829-59498acf-287f-4f1b-afd5-82ed4bfa8eca.mp4
+
+
+
+
+
+
+
+
 Reference link : [campusX](https://youtu.be/iRCaMnR_bpA) <br>
 [Dataset](https://github.com/rajtilakls2510/car_price_predictor/blob/master/quikr_car.csv)
 
