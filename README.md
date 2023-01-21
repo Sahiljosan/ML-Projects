@@ -8,4 +8,4 @@ Click on the thumbnail to view to project file and code *  <br><br>
 
 # Advance Excel Dashboards
 Click on the thumbnail to view to video of dashboards *  <br><br>
-[<img width = "30%" src = "https://i.imgur.com/f0PUrAO.jpg" />](https://github.com/Sahiljosan/Advance-Excel-Dashboards) 
+[<img width = "30%" src = "https://i.imgur.com/f0PUrAO.jpg" />](https://github.com/Sahiljosan/Advance-Excel-Dashboards) [<img width = "30%" src = "https://i.imgur.com/BkW1MmQ.jpg" />](https://github.com/Sahiljosan/Advance-Excel-Dashboards) [<img width = "30%" src = "https://i.imgur.com/Zv5nMi7.jpg" />](https://github.com/Sahiljosan/Advance-Excel-Dashboards) [<img width = "30%" src = "https://i.imgur.com/J0og4Le.jpg" />](https://github.com/Sahiljosan/Advance-Excel-Dashboards)
