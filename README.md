@@ -7,4 +7,5 @@ Click on the thumbnail to view to project file and code *  <br><br>
 [<img width = "30%" src = "https://i.imgur.com/uK7CVyJ.png" />](https://github.com/Sahiljosan/Python_Projects/blob/main/Scrapping_Top_Github_Repositories/Scrapping_Top_Github_Repositories.ipynb)
 
 # Advance Excel Dashboards
-[<img width = "30%" src = "https://i.imgur.com/f0PUrAO.jpg" />]
+Click on the thumbnail to view to video of dashboards *  <br><br>
+[<img width = "30%" src = "https://i.imgur.com/f0PUrAO.jpg" />](https://github.com/Sahiljosan/Advance-Excel-Dashboards) 
