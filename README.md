@@ -7,9 +7,9 @@ Click on the thumbnail to view to project file and code *  <br><br>
 # Python-Projects
 Click on the thumbnail to view to project file and code *  <br><br>
 [<img width = "30%" src = "https://i.imgur.com/uK7CVyJ.png" />](https://github.com/Sahiljosan/Python_Projects/blob/main/Scrapping_Top_Github_Repositories/Scrapping_Top_Github_Repositories.ipynb) <br>
-[<img width = "10%" src = "https://i.imgur.com/3z3zrxO.jpg" />](#My-Portfolio)
+[<img width = "12%" src = "https://i.imgur.com/3z3zrxO.jpg" />](#My-Portfolio)
 
 # Advance Excel Dashboards
 Click on the thumbnail to view to video of dashboards *  <br><br>
 [<img width = "30%" src = "https://i.imgur.com/f0PUrAO.jpg" />](https://github.com/Sahiljosan/Advance-Excel-Dashboards)  [<img width = "30%" src = "https://i.imgur.com/BkW1MmQ.jpg" />](https://github.com/Sahiljosan/Advance-Excel-Dashboards)  [<img width = "30%" src = "https://i.imgur.com/Zv5nMi7.jpg" />](https://github.com/Sahiljosan/Advance-Excel-Dashboards)  [<img width = "30%" src = "https://i.imgur.com/J0og4Le.jpg" />](https://github.com/Sahiljosan/Advance-Excel-Dashboards) <br>
-[<img width = "10%" src = "https://i.imgur.com/3z3zrxO.jpg" />](#My-Portfolio)
+[<img width = "12%" src = "https://i.imgur.com/3z3zrxO.jpg" />](#My-Portfolio)
